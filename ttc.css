@@ -1,0 +1,26 @@
+.container{
+    height: 300px;
+    width: 300px;
+    box-sizing: border-box;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.center{
+    text-align: center;
+}
+
+.inputBox{
+    border: 2px solid black;
+    height: 95px;
+    width: 92px;
+    display: inline-block;
+    cursor: pointer;
+    font-size: 0px;
+}
+
